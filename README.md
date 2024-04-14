@@ -4,7 +4,7 @@ SISTEMAS DE CONTROL Y SERVICIOS
 
 ![image](https://github.com/ISPC-TST-CyS-2024/Dario-Arriola/assets/97257347/1507440f-1e04-4d02-b481-948fea094e7e)
 
-Hoja de ruta
+*Hoja de ruta
 En cada Unidad empieza su recorrio.  En las mismos se desarrollaran, segun el programa donde ademas se indican los tiempos, las actividades correspondientes. En cada periodo se realizaran trabajos practicos personales en forma semanal y un proyecto grupal por periodo. Por ejemplo, la unidad #1: 
 
 Tiene 3 Trabajos practicos, con sus respectivas fechas de inicio y entrega. 
